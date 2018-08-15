@@ -11,7 +11,7 @@ Input parameters:
     ``` 
     node ssh <username>:<password>@<host> -p 2222
     ```
-- **key destionation**
+- **key destionation (optional)**
     ```
     node ssh <username>:<password>@<host> -k keys/host.key
     ```
