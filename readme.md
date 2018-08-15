@@ -2,6 +2,8 @@
 
 R-SSH-client is a console utility that is a full-fledged ssh-client. it translates commands entered by the user to the remote system and gets the result of their execution.
 
+To run the tool clone it and go into the clonned folder. Make command `npm install`. Then run the `ssh.js` script with required parametres.
+
 Input parameters:
 - **connection string**
     ```
